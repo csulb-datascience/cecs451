@@ -1,0 +1,1723 @@
+ajitsharvay,23484,14874557,TRUE,"Running time: 1ms
+ -  1  -  -  - 
+ -  -  -  -  1 
+ -  -  1  -  - 
+ 1  -  -  -  - 
+ -  -  -  1  - 
+
+",TRUE,"Running time: 1ms
+ -  -  -  -  1 
+ -  -  1  -  - 
+ 1  -  -  -  - 
+ -  -  -  1  - 
+ -  1  -  -  - 
+
+",TRUE,"Running time: 2ms
+ -  -  -  1  - 
+ 1  -  -  -  - 
+ -  -  1  -  - 
+ -  -  -  -  1 
+ -  1  -  -  - 
+
+",TRUE,"Running time: 64ms
+ -  -  -  1  - 
+ -  1  -  -  - 
+ -  -  -  -  1 
+ -  -  1  -  - 
+ 1  -  -  -  - 
+
+",TRUE,"Running time: 60ms
+ 1  -  -  -  - 
+ -  -  1  -  - 
+ -  -  -  -  1 
+ -  1  -  -  - 
+ -  -  -  1  - 
+
+",TRUE,"Running time: 348ms
+ -  1  -  -  - 
+ -  -  -  -  1 
+ -  -  1  -  - 
+ 1  -  -  -  - 
+ -  -  -  1  - 
+
+"
+anayabriant,43550,14831483,TRUE,"Running time: 1.0ms
+1 - - - - 
+- - 1 - - 
+- - - - 1 
+- 1 - - - 
+- - - 1 - 
+",TRUE,"Running time: 2.0ms
+- 1 - - - 
+- - - - 1 
+- - 1 - - 
+1 - - - - 
+- - - 1 - 
+",TRUE,"Running time: 1.0ms
+- - 1 - - 
+1 - - - - 
+- - - 1 - 
+- 1 - - - 
+- - - - 1 
+",TRUE,"Running time: 1.0ms
+- - 1 - - 
+- - - - 1 
+- 1 - - - 
+- - - 1 - 
+1 - - - - 
+",TRUE,"Running time: 4.0ms
+- 1 - - - 
+- - - - 1 
+- - 1 - - 
+1 - - - - 
+- - - 1 - 
+",TRUE,"Running time: 3.0ms
+- - 1 - - 
+- - - - 1 
+- 1 - - - 
+- - - 1 - 
+1 - - - - 
+"
+angelaidantristen,26559,14863922,TRUE,"Running time: 12 ms
+1 - - - -
+- - 1 - -
+- - - - 1
+- 1 - - -
+- - - 1 -
+",TRUE,"Running time: 7 ms
+- - 1 - -
+1 - - - -
+- - - 1 -
+- 1 - - -
+- - - - 1
+",TRUE,"Running time: 4 ms
+- 1 - - -
+- - - - 1
+- - 1 - -
+1 - - - -
+- - - 1 -
+",TRUE,"Running time: 16 ms
+- 1 - - -
+- - - - 1
+- - 1 - -
+1 - - - -
+- - - 1 -
+",TRUE,"Running time: 6 ms
+- - - 1 -
+1 - - - -
+- - 1 - -
+- - - - 1
+- 1 - - -
+",TRUE,"Running time: 5 ms
+- 1 - - -
+- - - 1 -
+1 - - - -
+- - 1 - -
+- - - - 1
+"
+ashrafrayyan,42996,14874020,TRUE,"Running time: 0ms
+- 1 - - -
+- - - - 1
+- - 1 - -
+1 - - - -
+- - - 1 -
+",FALSE,"Running time: 0ms
+- - 1 - -
+- - - - 1
+1 - - - -
+- 1 - - -
+- - - 1 -
+",TRUE,"Running time: 1ms
+- - - 1 -
+- 1 - - -
+- - - - 1
+- - 1 - -
+1 - - - -
+",TRUE,"Running time: 17ms
+- - 1 - -
+1 - - - -
+- - - 1 -
+- 1 - - -
+- - - - 1
+",TRUE,"Running time: 19ms
+- - - 1 -
+- 1 - - -
+- - - - 1
+- - 1 - -
+1 - - - -
+",TRUE,"Running time: 19ms
+1 - - - -
+- - - 1 -
+- 1 - - -
+- - - - 1
+- - 1 - -
+"
+askamjoshua,52582,14867175,FALSE,"Running time: 1ms
+- - - - 1
+- 1 - - -
+- - - - 1
+1 - - - -
+- - - 1 -
+",TRUE,"Running time: 0ms
+1 - - - -
+- - - 1 -
+- 1 - - -
+- - - - 1
+- - 1 - -
+",TRUE,"Running time: 0ms
+- 1 - - -
+- - - - 1
+- - 1 - -
+1 - - - -
+- - - 1 -
+",TRUE,"Running time: 7ms
+- - - 1 -
+1 - - - -
+- - 1 - -
+- - - - 1
+- 1 - - -
+",TRUE,"Running time: 1ms
+- 1 - - -
+- - - - 1
+- - 1 - -
+1 - - - -
+- - - 1 -
+",TRUE,"Running time: 13ms
+1 - - - -
+- - - 1 -
+- 1 - - -
+- - - - 1
+- - 1 - -
+"
+chhorbbryan,35249,14857972,TRUE,"Running time: 1.00112ms
+[0, 1, 0, 0, 0]
+[0, 0, 0, 0, 1]
+[0, 0, 1, 0, 0]
+[1, 0, 0, 0, 0]
+[0, 0, 0, 1, 0]
+",TRUE,"Running time: 2.00272ms
+[1, 0, 0, 0, 0]
+[0, 0, 1, 0, 0]
+[0, 0, 0, 0, 1]
+[0, 1, 0, 0, 0]
+[0, 0, 0, 1, 0]
+",TRUE,"Running time: 39.99925ms
+[1, 0, 0, 0, 0]
+[0, 0, 0, 1, 0]
+[0, 1, 0, 0, 0]
+[0, 0, 0, 0, 1]
+[0, 0, 1, 0, 0]
+",TRUE,"Running time: 3.96657ms
+0 1 0 0 0 
+0 0 0 1 0 
+1 0 0 0 0 
+0 0 1 0 0 
+0 0 0 0 1 
+",TRUE,"Running time: 0.96989ms
+0 0 1 0 0 
+1 0 0 0 0 
+0 0 0 1 0 
+0 1 0 0 0 
+0 0 0 0 1 
+",TRUE,"Running time: 1.99628ms
+0 0 0 1 0 
+0 1 0 0 0 
+0 0 0 0 1 
+0 0 1 0 0 
+1 0 0 0 0 
+"
+chimvichet,33675,14871481,TRUE,"Running time: 3ms
+- - 1 - - 
+1 - - - - 
+- - - 1 - 
+- 1 - - - 
+- - - - 1 
+
+",TRUE,"Running time: 2ms
+- - - 1 - 
+- 1 - - - 
+- - - - 1 
+- - 1 - - 
+1 - - - - 
+
+",TRUE,"Running time: 6ms
+- - 1 - - 
+- - - - 1 
+- 1 - - - 
+- - - 1 - 
+1 - - - - 
+
+",TRUE,"Running time: 2ms
+- - 1 - - 
+1 - - - - 
+- - - 1 - 
+- 1 - - - 
+- - - - 1 
+
+",TRUE,"Running time: 1ms
+1 - - - - 
+- - - 1 - 
+- 1 - - - 
+- - - - 1 
+- - 1 - - 
+
+",FALSE,"Running time: 0ms
+- 1 - - - 
+- - - 1 - 
+1 - - - - 
+- - - - 1 
+- - 1 - - 
+
+"
+contrerasgiovanni,11765,14873816,TRUE,"Running Time: 40ms
+1 - - - -
+- - - 1 -
+- 1 - - -
+- - - - 1
+- - 1 - -
+",TRUE,"Running Time: 5ms
+- - - - 1
+- 1 - - -
+- - - 1 -
+1 - - - -
+- - 1 - -
+",TRUE,"Running Time: 55ms
+- - - 1 -
+- 1 - - -
+- - - - 1
+- - 1 - -
+1 - - - -
+",Missing,Missing,Missing,Missing,Missing,Missing
+dangtrevor,42745,14874484,TRUE,"Running time: 1.0 ms
+- - - 1 -
+- 1 - - -
+- - - - 1
+- - 1 - -
+1 - - - -
+",TRUE,"Running time: 0.97 ms
+- 1 - - -
+- - - 1 -
+1 - - - -
+- - 1 - -
+- - - - 1
+",FALSE,timedout,TRUE,"Running time: 1210.9 ms
+- 1 - - -
+- - - - 1
+- - 1 - -
+1 - - - -
+- - - 1 -
+",TRUE,"Running time: 1254.9 ms
+- - 1 - -
+- - - - 1
+- 1 - - -
+- - - 1 -
+1 - - - -
+",TRUE,"Running time: 1190.34 ms
+- - 1 - -
+1 - - - -
+- - - 1 -
+- 1 - - -
+- - - - 1
+"
+delgadodiego,56969,14849153,TRUE,"Running time: 1ms
+- 1 - - - 
+- - - - 1 
+- - 1 - - 
+1 - - - - 
+- - - 1 - 
+",TRUE,"Running time: 8ms
+1 - - - - 
+- - 1 - - 
+- - - - 1 
+- 1 - - - 
+- - - 1 - 
+",TRUE,"Running time: 0ms
+1 - - - - 
+- - - 1 - 
+- 1 - - - 
+- - - - 1 
+- - 1 - - 
+",TRUE,"Running time: 6ms
+- - 1 - - 
+1 - - - - 
+- - - 1 - 
+- 1 - - - 
+- - - - 1 
+",TRUE,"Running time: 36ms
+- - 1 - - 
+- - - - 1 
+- 1 - - - 
+- - - 1 - 
+1 - - - - 
+",TRUE,"Running time: 39ms
+- - 1 - - 
+- - - - 1 
+- 1 - - - 
+- - - 1 - 
+1 - - - - 
+"
+eskridgematthew,35507,14886953,TRUE,"Running time: 9ms
+- 1 - - -
+- - - - 1
+- - 1 - -
+1 - - - -
+- - - 1 -
+",TRUE,"Running time: 91ms
+- 1 - - -
+- - - 1 -
+1 - - - -
+- - 1 - -
+- - - - 1
+",TRUE,"Running time: 40ms
+- - - - 1
+- - 1 - -
+1 - - - -
+- - - 1 -
+- 1 - - -
+",TRUE,"Running time: 1140ms
+1 - - - -
+- - 1 - -
+- - - - 1
+- 1 - - -
+- - - 1 -
+",TRUE,"Running time: 1130ms
+1 - - - -
+- - 1 - -
+- - - - 1
+- 1 - - -
+- - - 1 -
+",TRUE,"Running time: 1160ms
+1 - - - -
+- - - 1 -
+- 1 - - -
+- - - - 1
+- - 1 - -
+"
+fisherjustin,55157,14870356,TRUE,"Running time: 1ms
+- 1 - - - 
+- - - - 1 
+- - 1 - - 
+1 - - - - 
+- - - 1 - ",TRUE,"Running time: 0ms
+- 1 - - - 
+- - - - 1 
+- - 1 - - 
+1 - - - - 
+- - - 1 - ",TRUE,"Running time: 1ms
+- - - - 1 
+- - 1 - - 
+1 - - - - 
+- - - 1 - 
+- 1 - - - ",TRUE,"Running time: 23ms
+- 1 - - - 
+- - - 1 - 
+1 - - - - 
+- - 1 - - 
+- - - - 1 ",TRUE,"Running time: 8ms
+1 - - - - 
+- - 1 - - 
+- - - - 1 
+- 1 - - - 
+- - - 1 - ",TRUE,"Running time: 8ms
+1 - - - - 
+- - - 1 - 
+- 1 - - - 
+- - - - 1 
+- - 1 - - "
+gordillocarine,28482,14873648,TRUE,"Running time: 1ms
+- - 1 - - 
+1 - - - - 
+- - - 1 - 
+- 1 - - - 
+- - - - 1 
+
+",TRUE,"Running time: 0ms
+- - - 1 - 
+1 - - - - 
+- - 1 - - 
+- - - - 1 
+- 1 - - - 
+
+",TRUE,"Running time: 1ms
+- - - 1 - 
+- 1 - - - 
+- - - - 1 
+- - 1 - - 
+1 - - - - 
+
+",TRUE,"Running time: 2ms
+- - - 1 - 
+- 1 - - - 
+- - - - 1 
+- - 1 - - 
+1 - - - - 
+",TRUE,"Running time: 2ms
+- - - 1 - 
+1 - - - - 
+- - 1 - - 
+- - - - 1 
+- 1 - - - 
+",TRUE,"Running time: 3ms
+- 1 - - - 
+- - - 1 - 
+1 - - - - 
+- - 1 - - 
+- - - - 1 
+"
+hallsteven,8826,14863731,TRUE,"Running time: 58ms
+- - 1 - -
+1 - - - -
+- - - 1 -
+- 1 - - -
+- - - - 1
+",TRUE,"Running time: 64ms
+- - 1 - -
+- - - - 1
+- 1 - - -
+- - - 1 -
+1 - - - -
+",TRUE,"Running time: 51ms
+1 - - - -
+- - 1 - -
+- - - - 1
+- 1 - - -
+- - - 1 -
+",TRUE,"Running time: 1ms
+- 1 - - -
+- - - 1 -
+1 - - - -
+- - 1 - -
+- - - - 1
+",FALSE,"Traceback (most recent call last):
+  File ""C:\Users\metal\OneDrive\Desktop\ISA CECS 451\Assign2Grader\StudentSubmissions\hallsteven_8826_14863730_genetic.py"", line 64, in <module>
+    solution, running_time = genetic_algorithm(population_size, n_generations, mutation_rate)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\metal\OneDrive\Desktop\ISA CECS 451\Assign2Grader\StudentSubmissions\hallsteven_8826_14863730_genetic.py"", line 56, in genetic_algorithm
+    best_state = min(population, key=get_fitness)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\metal\OneDrive\Desktop\ISA CECS 451\Assign2Grader\StudentSubmissions\hallsteven_8826_14863730_genetic.py"", line 9, in get_fitness
+    return board.get_fitness()
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'list' object has no attribute 'get_fitness'
+",TRUE,"Running time: 7ms
+- - 1 - -
+1 - - - -
+- - - 1 -
+- 1 - - -
+- - - - 1
+"
+hoangalex,46866,14868763,TRUE,"Running Time:  1 ms
+- 1 - - -
+- - - 1 -
+1 - - - -
+- - 1 - -
+- - - - 1
+",TRUE,"Running Time:  4 ms
+- - - - 1
+- 1 - - -
+- - - 1 -
+1 - - - -
+- - 1 - -
+",TRUE,"Running Time:  2 ms
+1 - - - -
+- - 1 - -
+- - - - 1
+- 1 - - -
+- - - 1 -
+",TRUE,"Running Time:  13 ms
+1 - - - -
+- - - 1 -
+- 1 - - -
+- - - - 1
+- - 1 - -
+",TRUE,"Running Time:  21 ms
+- - - 1 -
+1 - - - -
+- - 1 - -
+- - - - 1
+- 1 - - -
+",TRUE,"Running Time:  6 ms
+- - - 1 -
+- 1 - - -
+- - - - 1
+- - 1 - -
+1 - - - -
+"
+hosingloyeric,42717,14874616,TRUE,"Running time: 142ms
+- - - - 1
+- 1 - - -
+- - - 1 -
+1 - - - -
+- - 1 - -
+",TRUE,"Running time: 272ms
+- - 1 - -
+- - - - 1
+- 1 - - -
+- - - 1 -
+1 - - - -
+",TRUE,"Running time: 355ms
+- - - - 1
+- 1 - - -
+- - - 1 -
+1 - - - -
+- - 1 - -
+",FALSE,"Traceback (most recent call last):
+  File ""C:\Users\metal\OneDrive\Desktop\ISA CECS 451\Assign2Grader\StudentSubmissions\hosingloyeric_42717_14874617_genetic.py"", line 110, in <module>
+    solution = genetic_algorithm(states)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\metal\OneDrive\Desktop\ISA CECS 451\Assign2Grader\StudentSubmissions\hosingloyeric_42717_14874617_genetic.py"", line 95, in genetic_algorithm
+    selected = selection(states)
+               ^^^^^^^^^^^^^^^^^
+  File ""C:\Users\metal\OneDrive\Desktop\ISA CECS 451\Assign2Grader\StudentSubmissions\hosingloyeric_42717_14874617_genetic.py"", line 41, in selection
+    percentage = [fit / total_fitness for fit in fitness]
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\metal\OneDrive\Desktop\ISA CECS 451\Assign2Grader\StudentSubmissions\hosingloyeric_42717_14874617_genetic.py"", line 41, in <listcomp>
+    percentage = [fit / total_fitness for fit in fitness]
+                  ~~~~^~~~~~~~~~~~~~~
+ZeroDivisionError: float division by zero
+",TRUE,"Running time: 0ms
+- - - - 1
+- 1 - - -
+- - - 1 -
+1 - - - -
+- - 1 - -
+",TRUE,"Running time: 0ms
+1 - - - -
+- - - 1 -
+- 1 - - -
+- - - - 1
+- - 1 - -
+"
+huynhdylan,32351,14873929,TRUE,"Running time: 0.00ms
+1 - - - -
+- - 1 - -
+- - - - 1
+- 1 - - -
+- - - 1 -
+",TRUE,"Running time: 0.00ms
+1 - - - -
+- - - 1 -
+- 1 - - -
+- - - - 1
+- - 1 - -
+",TRUE,"Running time: 0.00ms
+- - - 1 -
+- 1 - - -
+- - - - 1
+- - 1 - -
+1 - - - -
+",TRUE,"Running time: 7.00ms
+- 1 - - -
+- - - - 1
+- - 1 - -
+1 - - - -
+- - - 1 -
+",TRUE,"Running time: 13.96ms
+- - - - 1
+- - 1 - -
+1 - - - -
+- - - 1 -
+- 1 - - -
+",TRUE,"Running time: 1.00ms
+- - 1 - -
+- - - - 1
+- 1 - - -
+- - - 1 -
+1 - - - -
+"
+jaimealexis,73469,14871350,FALSE,"Running time: 0ms
+- - - - 1 
+- - - 1 - 
+1 - - - - 
+- 1 - - - 
+1 - - - - 
+",FALSE,"Running time: 0ms
+- 1 - - - 
+- 1 - - - 
+- - 1 - - 
+- 1 - - - 
+- 1 - - - 
+",FALSE,"Running time: 0ms
+- - - - 1 
+- - - 1 - 
+- - 1 - - 
+- - 1 - - 
+1 - - - - 
+",TRUE,"Running time: 0ms
+- - 1 - - 
+- - - - 1 
+- 1 - - - 
+- - - 1 - 
+1 - - - - 
+",TRUE,"Running time: 0ms
+- - 1 - - 
+1 - - - - 
+- - - 1 - 
+- 1 - - - 
+- - - - 1 
+",TRUE,"Running time: 0ms
+- - - - 1 
+- 1 - - - 
+- - - 1 - 
+1 - - - - 
+- - 1 - - 
+"
+jinalvin,32921,14866680,TRUE,"Running time: 0ms
+- - 1 - -
+- - - - 1
+- 1 - - -
+- - - 1 -
+1 - - - -
+",TRUE,"Running time: 1ms
+1 - - - -
+- - - 1 -
+- 1 - - -
+- - - - 1
+- - 1 - -
+",TRUE,"Running time: 0ms
+- 1 - - -
+- - - - 1
+- - 1 - -
+1 - - - -
+- - - 1 -
+",TRUE,"Running time: 42ms
+- - 1 - -
+1 - - - -
+- - - 1 -
+- 1 - - -
+- - - - 1
+",TRUE,"Running time: 17ms
+- 1 - - -
+- - - - 1
+- - 1 - -
+1 - - - -
+- - - 1 -
+",TRUE,"Running time: 6ms
+- 1 - - -
+- - - - 1
+- - 1 - -
+1 - - - -
+- - - 1 -
+"
+kiyunakyle,29164,14913236,TRUE,"Runtime: 0.0ms
+- - - 1 -
+1 - - - -
+- - 1 - -
+- - - - 1
+- 1 - - -
+",TRUE,"Runtime: 0.0ms
+- - 1 - -
+1 - - - -
+- - - 1 -
+- 1 - - -
+- - - - 1
+",TRUE,"Runtime: 0.0ms
+- 1 - - -
+- - - - 1
+- - 1 - -
+1 - - - -
+- - - 1 -
+",TRUE,"Runtime: 0.0ms
+- - - - 1
+- - 1 - -
+1 - - - -
+- - - 1 -
+- 1 - - -
+",TRUE,"Runtime: 0.0ms
+- - - - 1
+- - 1 - -
+1 - - - -
+- - - 1 -
+- 1 - - -
+",TRUE,"Runtime: 0.0ms
+- 1 - - -
+- - - - 1
+- - 1 - -
+1 - - - -
+- - - 1 -
+"
+lathsamnang,40690,14869063,TRUE,"Running time: 48.0ms
+- - - - 1
+- 1 - - -
+- - - 1 -
+1 - - - -
+- - 1 - -
+",TRUE,"Running time: 50.0ms
+- - 1 - -
+1 - - - -
+- - - 1 -
+- 1 - - -
+- - - - 1
+",TRUE,"Running time: 49.03ms
+1 - - - -
+- - - 1 -
+- 1 - - -
+- - - - 1
+- - 1 - -
+",TRUE,"Running time: 14.0ms
+1 - - - -
+- - 1 - -
+- - - - 1
+- 1 - - -
+- - - 1 -
+",TRUE,"Running time: 5.0ms
+- - 1 - -
+- - - - 1
+- 1 - - -
+- - - 1 -
+1 - - - -
+",TRUE,"Running time: 21.01ms
+- - 1 - -
+1 - - - -
+- - - 1 -
+- 1 - - -
+- - - - 1
+"
+leevictor,61746,14875525,FALSE,"Running time: 0ms
+- 1 - - -
+- - - 1 -
+- - - 1 -
+- - - - 1
+- - - - 1
+",FALSE,"Running time: 0ms
+1 - - - -
+- - 1 - -
+- - - - 1
+- - 1 - -
+1 - - - -
+",FALSE,"Running time: 0ms
+- - - 1 -
+1 - - - -
+- - - - 1
+1 - - - -
+- - - - 1
+",FALSE,,FALSE,,FALSE,
+lopezalex,26289,14853350,TRUE,"Running time: 0ms
+- - - 1 - 
+- 1 - - - 
+- - - - 1 
+- - 1 - - 
+1 - - - - 
+",TRUE,"Running time: 0ms
+1 - - - - 
+- - - 1 - 
+- 1 - - - 
+- - - - 1 
+- - 1 - - 
+",TRUE,"Running time: 1ms
+1 - - - - 
+- - - 1 - 
+- 1 - - - 
+- - - - 1 
+- - 1 - - 
+",TRUE,"Running time: 0ms
+- 1 - - - 
+- - - - 1 
+- - 1 - - 
+1 - - - - 
+- - - 1 - 
+",TRUE,"Running time: 2ms
+1 - - - - 
+- - 1 - - 
+- - - - 1 
+- 1 - - - 
+- - - 1 - 
+",TRUE,"Running time: 4ms
+- - 1 - - 
+- - - - 1 
+- 1 - - - 
+- - - 1 - 
+1 - - - - 
+"
+lyalex,36345,14873974,TRUE,"Running time:  21 ms
+1 - - - -
+- - 1 - -
+- - - - 1
+- 1 - - -
+- - - 1 -
+",TRUE,"Running time:  2 ms
+- - - - 1
+- - 1 - -
+1 - - - -
+- - - 1 -
+- 1 - - -
+",TRUE,"Running time:  11 ms
+- - - - 1
+- - 1 - -
+1 - - - -
+- - - 1 -
+- 1 - - -
+",TRUE,"Running time:  11 ms
+- - - - 1
+- - 1 - -
+1 - - - -
+- - - 1 -
+- 1 - - -
+",TRUE,"Running time:  2 ms
+- - - - 1
+- 1 - - -
+- - - 1 -
+1 - - - -
+- - 1 - -
+",TRUE,"Running time:  4 ms
+- - - - 1
+- 1 - - -
+- - - 1 -
+1 - - - -
+- - 1 - -
+"
+maganacesar,17599,14875592,TRUE,"Running time: 0.00ms
+- - 1 - -
+- - - - 1
+- 1 - - -
+- - - 1 -
+1 - - - -
+",TRUE,"Running time: 0.00ms
+- - - - 1
+- - 1 - -
+1 - - - -
+- - - 1 -
+- 1 - - -
+",TRUE,"Running time: 0.00ms
+- - 1 - -
+1 - - - -
+- - - 1 -
+- 1 - - -
+- - - - 1
+",TRUE,"Running time: 69.51ms
+- - - 1 -
+- 1 - - -
+- - - - 1
+- - 1 - -
+1 - - - -
+",TRUE,"Running time: 17.03ms
+- 1 - - -
+- - - 1 -
+1 - - - -
+- - 1 - -
+- - - - 1
+",TRUE,"Running time: 33.61ms
+- - - - 1
+- - 1 - -
+1 - - - -
+- - - 1 -
+- 1 - - -
+"
+maraaidan,55856,14854392,TRUE,"Running time:  0 ms
+ -  -  1  -  - 
+ -  -  -  -  1 
+ -  1  -  -  - 
+ -  -  -  1  - 
+ 1  -  -  -  - 
+",TRUE,"Running time:  2 ms
+ 1  -  -  -  - 
+ -  -  1  -  - 
+ -  -  -  -  1 
+ -  1  -  -  - 
+ -  -  -  1  - 
+",TRUE,"Running time:  1 ms
+ -  -  -  1  - 
+ 1  -  -  -  - 
+ -  -  1  -  - 
+ -  -  -  -  1 
+ -  1  -  -  - 
+",TRUE,"Running time:  1 ms
+ 1  -  -  -  - 
+ -  -  -  1  - 
+ -  1  -  -  - 
+ -  -  -  -  1 
+ -  -  1  -  - 
+",TRUE,"Running time:  5 ms
+ -  1  -  -  - 
+ -  -  -  -  1 
+ -  -  1  -  - 
+ 1  -  -  -  - 
+ -  -  -  1  - 
+",TRUE,"Running time:  11 ms
+ -  -  -  1  - 
+ -  1  -  -  - 
+ -  -  -  -  1 
+ -  -  1  -  - 
+ 1  -  -  -  - 
+"
+melgarfrancisco,44172,14867760,FALSE,"Execution time: 2.0 ms
+- 1 - - -
+1 - - - -
+- - - 1 -
+1 - - - -
+- - - - 1
+",FALSE,"Execution time: 2.0 ms
+1 - - - -
+1 - - - -
+- - - 1 -
+- 1 - - -
+- - - - 1
+",FALSE,"Execution time: 2.0 ms
+- - - 1 -
+- 1 - - -
+- 1 - - -
+- - 1 - -
+- - - - 1
+",TRUE,"Time: 2.0 ms
+- - 1 - -
+1 - - - -
+- - - 1 -
+- 1 - - -
+- - - - 1
+",TRUE,"Time: 2.0 ms
+- - - - -
+- - - - 1
+- 1 - - -
+- - - 1 -
+- - - - -
+",FALSE,"Time: 7.0 ms
+- - 1 - -
+- 1 - - -
+- - - 1 -
+- - 1 - -
+- - - 1 -
+"
+morenodaniel,31442,14867137,TRUE,"Running time: 0.00ms
+- 1 - - -
+- - - 1 -
+1 - - - -
+- - 1 - -
+- - - - 1
+
+",TRUE,"Running time: 1.00ms
+- 1 - - -
+- - - - 1
+- - 1 - -
+1 - - - -
+- - - 1 -
+
+",TRUE,"Running time: 2.03ms
+- 1 - - -
+- - - - 1
+- - 1 - -
+1 - - - -
+- - - 1 -
+
+",TRUE,"Running time: 2.00ms
+- - - - 1 
+- 1 - - - 
+- - - 1 - 
+1 - - - - 
+- - 1 - - 
+
+",TRUE,"Running time: 27.00ms
+- 1 - - - 
+- - - 1 - 
+1 - - - - 
+- - 1 - - 
+- - - - 1 
+
+",TRUE,"Running time: 4.00ms
+- - - - 1 
+- - 1 - - 
+1 - - - - 
+- - - 1 - 
+- 1 - - - 
+
+"
+nguyenkatelynn,51984,14875648,TRUE,"Running time: 1 ms
+- - - - 1 
+- 1 - - - 
+- - - 1 - 
+1 - - - - 
+- - 1 - - 
+",TRUE,"Running time: 1 ms
+- - 1 - - 
+- - - - 1 
+- 1 - - - 
+- - - 1 - 
+1 - - - - 
+",TRUE,"Running time: 0 ms
+- - 1 - - 
+1 - - - - 
+- - - 1 - 
+- 1 - - - 
+- - - - 1 
+",TRUE,"Running time: 7 ms
+- 1 - - - 
+- - - - 1 
+- - 1 - - 
+1 - - - - 
+- - - 1 - 
+",TRUE,"Running time: 0 ms
+1 - - - - 
+- - - 1 - 
+- 1 - - - 
+- - - - 1 
+- - 1 - - 
+",TRUE,"Running time: 27 ms
+- 1 - - - 
+- - - - 1 
+- - 1 - - 
+1 - - - - 
+- - - 1 - 
+"
+nguyenkiet,34640,14874480,TRUE,"Running Time: 2 ms
+- - 1 - - 
+1 - - - - 
+- - - 1 - 
+- 1 - - - 
+- - - - 1 
+",TRUE,"Running Time: 1 ms
+- 1 - - - 
+- - - - 1 
+- - 1 - - 
+1 - - - - 
+- - - 1 - 
+",TRUE,"Running Time: 0 ms
+- - - 1 - 
+1 - - - - 
+- - 1 - - 
+- - - - 1 
+- 1 - - - 
+",TRUE,"Running Time: 16 ms
+- - - - 1 
+- - 1 - - 
+1 - - - - 
+- - - 1 - 
+- 1 - - - 
+",TRUE,"Running Time: 22 ms
+- - - - 1 
+- 1 - - - 
+- - - 1 - 
+1 - - - - 
+- - 1 - - 
+",TRUE,"Running Time: 23 ms
+1 - - - - 
+- - 1 - - 
+- - - - 1 
+- 1 - - - 
+- - - 1 - 
+"
+nguyenthanh,29352,14862401,TRUE,"Running time: 1ms
+- - - 1 -
+- 1 - - -
+- - - - 1
+- - 1 - -
+1 - - - -
+",TRUE,"Running time: 1ms
+- - - - 1
+- 1 - - -
+- - - 1 -
+1 - - - -
+- - 1 - -
+",TRUE,"Running time: 2ms
+- - 1 - -
+1 - - - -
+- - - 1 -
+- 1 - - -
+- - - - 1
+",TRUE,"Running time: 24ms
+1 - - - -
+- - 1 - -
+- - - - 1
+- 1 - - -
+- - - 1 -
+",TRUE,"Running time: 19ms
+- - 1 - -
+- - - - 1
+- 1 - - -
+- - - 1 -
+1 - - - -
+",TRUE,"Running time: 9ms
+- - - - 1
+- 1 - - -
+- - - 1 -
+1 - - - -
+- - 1 - -
+"
+nguyenthuan,62951,14875377,TRUE,"Running time: 0ms
+- 1 - - -
+- - - - 1
+- - 1 - -
+1 - - - -
+- - - 1 -
+",TRUE,"Running time: 0ms
+- - 1 - -
+1 - - - -
+- - - 1 -
+- 1 - - -
+- - - - 1
+",TRUE,"Running time: 0ms
+- - - 1 -
+1 - - - -
+- - 1 - -
+- - - - 1
+- 1 - - -
+",TRUE,"Running time: 6ms
+- 1 - - -
+- - - - 1
+- - 1 - -
+1 - - - -
+- - - 1 -
+",TRUE,"Running time: 14ms
+1 - - - -
+- - - 1 -
+- 1 - - -
+- - - - 1
+- - 1 - -
+",TRUE,"Running time: 14ms
+- - 1 - -
+- - - - 1
+- 1 - - -
+- - - 1 -
+1 - - - -
+"
+nguyentuan,38579,14868152,TRUE,"Running time: 81ms
+- 1 - - -
+- - - - 1
+- - 1 - -
+1 - - - -
+- - - 1 -
+",TRUE,"Running time: 24ms
+- - 1 - -
+- - - - 1
+- 1 - - -
+- - - 1 -
+1 - - - -
+",TRUE,"Running time: 14ms
+1 - - - -
+- - 1 - -
+- - - - 1
+- 1 - - -
+- - - 1 -
+",TRUE,"Running time: 31ms
+1 - - - -
+- - - 1 -
+- 1 - - -
+- - - - 1
+- - 1 - -
+",TRUE,"Running time: 11ms
+- - - 1 -
+- 1 - - -
+- - - - 1
+- - 1 - -
+1 - - - -
+",TRUE,"Running time: 4ms
+- 1 - - -
+- - - 1 -
+1 - - - -
+- - 1 - -
+- - - - 1
+"
+ortizbacaluis,31190,14866218,TRUE,"Running time: 4.19ms
+1 - - - - 
+- - - 1 - 
+- 1 - - - 
+- - - - 1 
+- - 1 - - 
+",TRUE,"Running time: 3.23ms
+- - 1 - - 
+- - - - 1 
+- 1 - - - 
+- - - 1 - 
+1 - - - - 
+",TRUE,"Running time: 2.44ms
+1 - - - - 
+- - 1 - - 
+- - - - 1 
+- 1 - - - 
+- - - 1 - 
+",FALSE,"Running time: 0.08ms
+- - 1 - - 
+1 - - 1 - 
+- - - 1 - 
+- - 1 - - 
+- - 1 - - 
+",FALSE,"Running time: 0.10ms
+- 1 - - - 
+- - 1 - - 
+- 1 - - - 
+- - - 1 - 
+- - - - 1 
+",FALSE,"Running time: 0.08ms
+- - 1 - - 
+- - - 1 - 
+- 1 - - - 
+- - - - 1 
+- - 1 - - 
+"
+pacinimarco,28404,14832876,TRUE,"Running time: 9ms
+- - 1 - -
+- - - - 1
+- 1 - - -
+- - - 1 -
+1 - - - -
+",TRUE,"Running time: 14ms
+1 - - - -
+- - - 1 -
+- 1 - - -
+- - - - 1
+- - 1 - -
+",TRUE,"Running time: 7ms
+- - - - 1
+- 1 - - -
+- - - 1 -
+1 - - - -
+- - 1 - -
+",TRUE,"Running time: 6ms
+1 - - - -
+- - 1 - -
+- - - - 1
+- 1 - - -
+- - - 1 -
+",TRUE,"Running time: 2ms
+- - - - 1
+- 1 - - -
+- - - 1 -
+1 - - - -
+- - 1 - -
+",TRUE,"Running time: 7ms
+1 - - - -
+- - - 1 -
+- 1 - - -
+- - - - 1
+- - 1 - -
+"
+panderick,63265,14840418,TRUE,"Running time: 0ms
+- 1 - - -
+- - - - 1
+- - 1 - -
+1 - - - -
+- - - 1 -
+",TRUE,"Running time: 1ms
+1 - - - -
+- - 1 - -
+- - - - 1
+- 1 - - -
+- - - 1 -
+",TRUE,"Running time: 0ms
+- 1 - - -
+- - - 1 -
+1 - - - -
+- - 1 - -
+- - - - 1
+",TRUE,"Running time: 3ms
+- - 1 - -
+- - - - 1
+- 1 - - -
+- - - 1 -
+1 - - - -
+",TRUE,"Running time: 2ms
+1 - - - -
+- - - 1 -
+- 1 - - -
+- - - - 1
+- - 1 - -
+",TRUE,"Running time: 3ms
+1 - - - -
+- - - 1 -
+- 1 - - -
+- - - - 1
+- - 1 - -
+"
+quezadagabriel,61627,14875612,TRUE,"Running time: 6.00ms
+_ _ _ 1 _
+_ 1 _ _ _
+_ _ _ _ 1
+_ _ 1 _ _
+1 _ _ _ _
+",TRUE,"Running time: 5.07ms
+_ _ _ _ 1
+_ _ 1 _ _
+1 _ _ _ _
+_ _ _ 1 _
+_ 1 _ _ _
+",TRUE,"Running time: 0.00ms
+_ _ _ 1 _
+1 _ _ _ _
+_ _ 1 _ _
+_ _ _ _ 1
+_ 1 _ _ _
+",TRUE,"Running time: 9.03ms
+_ _ _ 1 _
+_ 1 _ _ _
+_ _ _ _ 1
+_ _ 1 _ _
+1 _ _ _ _
+",TRUE,"Running time: 32.00ms
+_ _ _ _ 1
+_ _ 1 _ _
+1 _ _ _ _
+_ _ _ 1 _
+_ 1 _ _ _
+",TRUE,"Running time: 276.81ms
+_ _ 1 _ _
+_ _ _ _ 1
+_ 1 _ _ _
+_ _ _ 1 _
+1 _ _ _ _
+"
+romerosilvano,61824,14864079,TRUE,"Running time: 0ms
+- 1 - - - 
+- - - 1 - 
+1 - - - - 
+- - 1 - - 
+- - - - 1 
+",TRUE,"Running time: 0ms
+1 - - - - 
+- - 1 - - 
+- - - - 1 
+- 1 - - - 
+- - - 1 - 
+",TRUE,"Running time: 0ms
+- 1 - - - 
+- - - - 1 
+- - 1 - - 
+1 - - - - 
+- - - 1 - 
+",TRUE,"Running time: 21ms
+- - - - 1 
+- 1 - - - 
+- - - 1 - 
+1 - - - - 
+- - 1 - - 
+",TRUE,"Running time: 17ms
+- - - 1 - 
+- 1 - - - 
+- - - - 1 
+- - 1 - - 
+1 - - - - 
+",TRUE,"Running time: 0ms
+- - - 1 - 
+- 1 - - - 
+- - - - 1 
+- - 1 - - 
+1 - - - - 
+"
+ruebsamenhunter,42818,14840014,TRUE,"Running time: 0ms
+- - 1 - -
+1 - - - -
+- - - 1 -
+- 1 - - -
+- - - - 1
+",TRUE,"Running time: 1ms
+- 1 - - -
+- - - 1 -
+1 - - - -
+- - 1 - -
+- - - - 1
+",TRUE,"Running time: 0ms
+- - - 1 -
+- 1 - - -
+- - - - 1
+- - 1 - -
+1 - - - -
+",TRUE,"Running time: 50ms
+- - - - 1
+- 1 - - -
+- - - 1 -
+1 - - - -
+- - 1 - -
+",TRUE,"Running time: 19ms
+- - - 1 -
+- 1 - - -
+- - - - 1
+- - 1 - -
+1 - - - -
+",TRUE,"Running time: 2ms
+- - 1 - -
+1 - - - -
+- - - 1 -
+- 1 - - -
+- - - - 1
+"
+sorianobrianna,24419,14875353,TRUE,"Running time: 23ms
+- - - 1 -
+1 - - - -
+- - 1 - -
+- - - - 1
+- 1 - - -
+",TRUE,"Running time: 5ms
+- - - 1 -
+1 - - - -
+- - 1 - -
+- - - - 1
+- 1 - - -
+",TRUE,"Running time: 57ms
+- - - - 1
+- - 1 - -
+1 - - - -
+- - - 1 -
+- 1 - - -
+",TRUE,"Running time: 0ms
+- 1 - - -
+- - - - 1
+- - 1 - -
+1 - - - -
+- - - 1 -
+",TRUE,"Running time: 4ms
+- - - 1 -
+1 - - - -
+- - 1 - -
+- - - - 1
+- 1 - - -
+",TRUE,"Running time: 1ms
+- - - 1 -
+- 1 - - -
+- - - - 1
+- - 1 - -
+1 - - - -
+"
+steerkate,29295,14837555,TRUE,"Running time: 0ms
+- 1 - - -
+- - - 1 -
+1 - - - -
+- - 1 - -
+- - - - 1
+",TRUE,"Running time: 1ms
+1 - - - -
+- - - 1 -
+- 1 - - -
+- - - - 1
+- - 1 - -
+",TRUE,"Running time: 1ms
+- 1 - - -
+- - - 1 -
+1 - - - -
+- - 1 - -
+- - - - 1
+",TRUE,"Running time: 3ms
+- 1 - - -
+- - - 1 -
+1 - - - -
+- - 1 - -
+- - - - 1
+",TRUE,"Running time: 33ms
+- - - - 1
+- - 1 - -
+1 - - - -
+- - - 1 -
+- 1 - - -
+",TRUE,"Running time: 51ms
+- - - - 1
+- - 1 - -
+1 - - - -
+- - - 1 -
+- 1 - - -
+"
+tangmanting,62858,14874192,FALSE,"Running Time: 0 ms
+- - 1 - -
+- 1 - - -
+1 - - - -
+- - - 1 -
+- - - 1 -
+",FALSE,"Running Time: 0 ms
+- - 1 - -
+- - 1 - -
+1 - - - -
+- - - 1 -
+1 - - - -
+",FALSE,"Running Time: 0 ms
+- 1 - - -
+- - 1 - -
+- - 1 - -
+1 - - - -
+- - 1 - -
+",FALSE,"Running Time: 2 ms
+0 0 0 0 1
+0 0 0 1 0
+1 0 0 0 0
+1 0 0 0 0
+0 0 0 0 1
+",FALSE,"Running Time: 3 ms
+0 0 0 0 1
+0 0 0 0 1
+0 0 0 1 0
+1 0 0 0 0
+0 0 0 1 0
+",FALSE,"Running Time: 2 ms
+1 0 0 0 0
+1 0 0 0 0
+0 0 0 0 1
+0 0 1 0 0
+1 0 0 0 0
+"
+tessemabesufekad,42850,14875193,TRUE,"Running time: 0ms
+- - - - 1
+- - 1 - -
+1 - - - -
+- - - 1 -
+- 1 - - -
+",TRUE,"Running time: 0ms
+- - - 1 -
+- 1 - - -
+- - - - 1
+- - 1 - -
+1 - - - -
+",TRUE,"Running time: 0ms
+1 - - - -
+- - - 1 -
+- 1 - - -
+- - - - 1
+- - 1 - -
+",Missing,Missing,Missing,Missing,Missing,Missing
+trankayla,23296,14876313,FALSE,"Running time:  0 ms
+- - - 1 -
+- 1 - - -
+- 1 - - -
+- - - - 1
+- - 1 - -
+",TRUE,"Running time:  0 ms
+- 1 - - -
+- - - - 1
+- - 1 - -
+1 - - - -
+- - - 1 -
+",TRUE,"Running time:  0 ms
+1 - - - -
+- - 1 - -
+- - - - 1
+- 1 - - -
+- - - 1 -
+",TRUE,"Running time:  5 ms
+- - - - 1
+- - 1 - -
+1 - - - -
+- - - 1 -
+- 1 - - -
+",TRUE,"Running time:  15 ms
+1 - - - -
+- - 1 - -
+- - - - 1
+- 1 - - -
+- - - 1 -
+",TRUE,"Running time:  10 ms
+- - - 1 -
+- 1 - - -
+- - - - 1
+- - 1 - -
+1 - - - -
+"
+vegaalexander,33484,14874900,TRUE,"runtime: 1.00ms
+- 1 - - - 
+- - - 1 - 
+1 - - - - 
+- - 1 - - 
+- - - - 1 
+",TRUE,"runtime: 1.00ms
+1 - - - - 
+- - 1 - - 
+- - - - 1 
+- 1 - - - 
+- - - 1 - 
+",TRUE,"runtime: 1.00ms
+- - - 1 - 
+- 1 - - - 
+- - - - 1 
+- - 1 - - 
+1 - - - - 
+",Missing,Missing,Missing,Missing,Missing,Missing
+wellsbrody,52745,14855687,TRUE,"Running time: 1ms
+- - 1 - - 
+1 - - - - 
+- - - 1 - 
+- 1 - - - 
+- - - - 1
+",TRUE,"Running time: 1ms
+- 1 - - - 
+- - - - 1 
+- - 1 - - 
+1 - - - - 
+- - - 1 -
+",TRUE,"Running time: 1ms
+- - - 1 - 
+- 1 - - - 
+- - - - 1 
+- - 1 - - 
+1 - - - -
+",TRUE,"Running time: 3ms
+1 - - - - 
+- - 1 - - 
+- - - - 1 
+- 1 - - - 
+- - - 1 -
+",TRUE,"Running time: 2ms
+- 1 - - - 
+- - - - 1 
+- - 1 - - 
+1 - - - - 
+- - - 1 -
+",TRUE,"Running time: 3ms
+- - - 1 - 
+- 1 - - - 
+- - - - 1 
+- - 1 - - 
+1 - - - -
+"
+whitcombjacob,29528,14873365,TRUE,"Running time: 1ms
+1 - - - - 
+- - 1 - - 
+- - - - 1 
+- 1 - - - 
+- - - 1 - 
+",TRUE,"Running time: 0ms
+1 - - - - 
+- - 1 - - 
+- - - - 1 
+- 1 - - - 
+- - - 1 - 
+",TRUE,"Running time: 0ms
+- 1 - - - 
+- - - 1 - 
+1 - - - - 
+- - 1 - - 
+- - - - 1 
+",FALSE,"Running time: 3ms
+- - 1 - 
+1 - - - 
+- - - 1 
+- 1 - - 
+",FALSE,"Running time: 0ms
+- - 1 - 
+1 - - - 
+- - - 1 
+- 1 - - 
+",FALSE,"Running time: 121ms
+- - 1 - 
+1 - - - 
+- - - 1 
+- 1 - - 
+"
+zhaohongliang,54111,14869791,TRUE,"Running time: 8ms
+_ _ 1 _ _
+1 _ _ _ _
+_ _ _ 1 _
+_ 1 _ _ _
+_ _ _ _ 1
+",TRUE,"Running time: 6ms
+_ 1 _ _ _
+_ _ _ _ 1
+_ _ 1 _ _
+1 _ _ _ _
+_ _ _ 1 _
+",TRUE,"Running time: 6ms
+_ _ 1 _ _
+_ _ _ _ 1
+_ 1 _ _ _
+_ _ _ 1 _
+1 _ _ _ _
+",TRUE,"Running time: 5ms
+_ _ _ 1 _
+1 _ _ _ _
+_ _ 1 _ _
+_ _ _ _ 1
+_ 1 _ _ _
+",TRUE,"Running time: 5ms
+_ _ 1 _ _
+1 _ _ _ _
+_ _ _ 1 _
+_ 1 _ _ _
+_ _ _ _ 1
+",TRUE,"Running time: 3ms
+1 _ _ _ _
+_ _ 1 _ _
+_ _ _ _ 1
+_ 1 _ _ _
+_ _ _ 1 _
+"
